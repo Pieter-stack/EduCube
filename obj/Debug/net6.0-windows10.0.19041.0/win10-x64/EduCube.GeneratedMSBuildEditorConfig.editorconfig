@@ -7,63 +7,63 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EduCube
-build_property.ProjectDir = C:\Users\hello\Source\Repos\EduCube\
+build_property.ProjectDir = C:\Users\piete\OneDrive\Documents\GitHub\EduCube\
 
-[C:/Users/hello/Source/Repos/EduCube/App.xaml]
+[C:/Users/piete/OneDrive/Documents/GitHub/EduCube/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/hello/Source/Repos/EduCube/AppShell.xaml]
+[C:/Users/piete/OneDrive/Documents/GitHub/EduCube/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/hello/Source/Repos/EduCube/DashboardPage.xaml]
+[C:/Users/piete/OneDrive/Documents/GitHub/EduCube/DashboardPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.DashboardPage.xaml
 build_metadata.AdditionalFiles.TargetPath = DashboardPage.xaml
 build_metadata.AdditionalFiles.RelativePath = DashboardPage.xaml
 
-[C:/Users/hello/Source/Repos/EduCube/FundsPage.xaml]
+[C:/Users/piete/OneDrive/Documents/GitHub/EduCube/FundsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.FundsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = FundsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = FundsPage.xaml
 
-[C:/Users/hello/Source/Repos/EduCube/MainPage.xaml]
+[C:/Users/piete/OneDrive/Documents/GitHub/EduCube/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/hello/Source/Repos/EduCube/Resources/Styles/Colors.xaml]
+[C:/Users/piete/OneDrive/Documents/GitHub/EduCube/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/hello/Source/Repos/EduCube/Resources/Styles/Styles.xaml]
+[C:/Users/piete/OneDrive/Documents/GitHub/EduCube/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/hello/Source/Repos/EduCube/StudentsPage.xaml]
+[C:/Users/piete/OneDrive/Documents/GitHub/EduCube/StudentsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.StudentsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = StudentsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = StudentsPage.xaml
 
-[C:/Users/hello/Source/Repos/EduCube/SubjectsPage.xaml]
+[C:/Users/piete/OneDrive/Documents/GitHub/EduCube/SubjectsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.SubjectsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = SubjectsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = SubjectsPage.xaml
 
-[C:/Users/hello/Source/Repos/EduCube/TeachersPage.xaml]
+[C:/Users/piete/OneDrive/Documents/GitHub/EduCube/TeachersPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.TeachersPage.xaml
 build_metadata.AdditionalFiles.TargetPath = TeachersPage.xaml

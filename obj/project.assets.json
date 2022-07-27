@@ -24567,24 +24567,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hello\\.nuget\\packages\\": {},
+    "C:\\Users\\piete\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hello\\Source\\Repos\\EduCube\\EduCube.csproj",
+      "projectUniqueName": "C:\\Users\\piete\\OneDrive\\Documents\\GitHub\\EduCube\\EduCube.csproj",
       "projectName": "EduCube",
-      "projectPath": "C:\\Users\\hello\\Source\\Repos\\EduCube\\EduCube.csproj",
-      "packagesPath": "C:\\Users\\hello\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hello\\Source\\Repos\\EduCube\\obj\\",
+      "projectPath": "C:\\Users\\piete\\OneDrive\\Documents\\GitHub\\EduCube\\EduCube.csproj",
+      "packagesPath": "C:\\Users\\piete\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\piete\\OneDrive\\Documents\\GitHub\\EduCube\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\hello\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\piete\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
