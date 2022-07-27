@@ -1,1 +1,1 @@
-C:\Users\piete\OneDrive\Documents\GitHub\EduCube\EduCube.csproj;x64
+C:\Users\hello\Source\Repos\EduCube\EduCube.csproj;x64
