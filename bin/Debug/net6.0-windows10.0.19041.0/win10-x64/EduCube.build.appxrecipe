@@ -826,11 +826,29 @@
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Navbar.xaml">
+      <PackagePath>Navbar.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Navbar.xaml.cs">
+      <PackagePath>Navbar.xaml.cs</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Roboto-Bold.ttf">
+      <PackagePath>Roboto-Bold.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Roboto-Regular.ttf">
+      <PackagePath>Roboto-Regular.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Rubik-Bold.ttf">
+      <PackagePath>Rubik-Bold.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Rubik-Regular.ttf">
+      <PackagePath>Rubik-Regular.ttf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
@@ -925,6 +943,9 @@
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dashboardicon.scale-100.png">
+      <PackagePath>dashboardicon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -940,11 +961,26 @@
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\flyoutimage.scale-100.png">
+      <PackagePath>flyoutimage.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\flyout_image.scale-100.png">
       <PackagePath>flyout_image.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fundsicon.scale-100.png">
+      <PackagePath>fundsicon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\photo.scale-100.jpg">
       <PackagePath>photo.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\stafficon.scale-100.png">
+      <PackagePath>stafficon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\studenticon.scale-100.png">
+      <PackagePath>studenticon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\subjecticon.scale-100.png">
+      <PackagePath>subjecticon.scale-100.png</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

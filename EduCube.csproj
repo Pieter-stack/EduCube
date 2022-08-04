@@ -49,21 +49,47 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="DashboardPage.xaml">
+	  <None Remove="Resources\Fonts\Roboto-Bold.ttf" />
+	  <None Remove="Resources\Fonts\Roboto-Regular.ttf" />
+	  <None Remove="Resources\Fonts\Rubik-Bold.ttf" />
+	  <None Remove="Resources\Fonts\Rubik-Regular.ttf" />
+	  <None Remove="Resources\Images\dashboardicon.png" />
+	  <None Remove="Resources\Images\flyoutimage.png" />
+	  <None Remove="Resources\Images\fundsicon.png" />
+	  <None Remove="Resources\Images\stafficon.png" />
+	  <None Remove="Resources\Images\studenticon.png" />
+	  <None Remove="Resources\Images\subjecticon.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="Components\Navbar.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="FundsPage.xaml">
+	  <MauiXaml Update="Views\DashboardPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="StudentsPage.xaml">
+	  <MauiXaml Update="Views\FundsPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="SubjectsPage.xaml">
+	  <MauiXaml Update="Views\StudentsPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="TeachersPage.xaml">
+	  <MauiXaml Update="Views\SubjectsPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Views\TeachersPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Models\" />
+	  <Folder Include="ViewModels\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="CommunityToolkit.Mvvm" Version="7.1.2" />
+	  <PackageReference Include="sqlite-net-standard" Version="1.5.1" />
 	</ItemGroup>
 
 </Project>

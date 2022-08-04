@@ -692,3 +692,15 @@ C:\Users\hello\Source\Repos\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x
 C:\Users\hello\Source\Repos\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\hello\Source\Repos\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\hello\Source\Repos\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\flyoutimage.scale-100.png
+C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dashboardicon.scale-100.png
+C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fundsicon.scale-100.png
+C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\stafficon.scale-100.png
+C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\studenticon.scale-100.png
+C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\subjecticon.scale-100.png
+C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Roboto-Bold.ttf
+C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Roboto-Regular.ttf
+C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Rubik-Bold.ttf
+C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Rubik-Regular.ttf
+C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Navbar.xaml
+C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Navbar.xaml.cs
