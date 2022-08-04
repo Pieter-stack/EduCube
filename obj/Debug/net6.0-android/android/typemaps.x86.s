@@ -76695,7 +76695,7 @@
 	.section	.data.rel.ro.type_map, "aw", @progbits
 
 	#
-	# Generated from instance of: Xamarin.Android.Tasks.TypeMappingDebugNativeAssemblyGenerator+TypeMap, Xamarin.Android.Build.Tasks, Version=12.3.99.40, Culture=neutral, PublicKeyToken=84e04ff9cfb79065
+	# Generated from instance of: Xamarin.Android.Tasks.TypeMappingDebugNativeAssemblyGenerator+TypeMap, Xamarin.Android.Build.Tasks, Version=12.3.99.47, Culture=neutral, PublicKeyToken=84e04ff9cfb79065
 	#
 	.type	type_map, @object
 	.global	type_map
@@ -76710,4 +76710,4 @@ type_map:
 	.long	.L.map_managed_to_java.0	# managed_to_java
 	.size	type_map, 20
 
-	.ident	"Xamarin.Android remotes/origin/release/6.0.4xx @ c75220e1d2ac2f4fa90c0d71bb2be53c5ba99c80"
+	.ident	"Xamarin.Android remotes/origin/release/6.0.4xx @ 0b8d593a61bb49120fdf817e8dfdbc4b33937772"
