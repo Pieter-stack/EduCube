@@ -23,7 +23,7 @@
     <img src="path/to/logo" alt="Logo" width="140" height="140">
   </a>
   
-  <h3 align="center">EduCube</h3>
+  <h3 align="center">Project Name</h3>
 
   <p align="center">
     Short Project Slogan / Description <br>
@@ -105,7 +105,7 @@ Enter `https://github.com/username/projectname.git` into the URL field and press
 2. Clone Repository </br>
 Run the following in the command-line to clone the project:
    ```sh
-   git clone https://github.com/Pieter-stack/EduCube.git
+   git clone https://github.com/username/projectname.git
    ```
     Open `Software` and select `File | Open...` from the menu. Select cloned directory and press `Open` button
 
