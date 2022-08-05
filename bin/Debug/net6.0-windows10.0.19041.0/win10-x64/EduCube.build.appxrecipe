@@ -949,6 +949,9 @@
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dashboardicon.scale-100.png">
+      <PackagePath>dashboardicon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -967,8 +970,23 @@
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\flyout_image.scale-100.png">
       <PackagePath>flyout_image.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fundsicon.scale-100.png">
+      <PackagePath>fundsicon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\navbar.scale-100.png">
+      <PackagePath>navbar.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\photo.scale-100.jpg">
       <PackagePath>photo.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\stafficon.scale-100.png">
+      <PackagePath>stafficon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\studenticon.scale-100.png">
+      <PackagePath>studenticon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\subjecticon.scale-100.png">
+      <PackagePath>subjecticon.scale-100.png</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

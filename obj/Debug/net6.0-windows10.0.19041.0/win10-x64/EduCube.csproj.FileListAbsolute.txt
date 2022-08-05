@@ -1059,3 +1059,9 @@ D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.tx
 D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dashboardicon.scale-100.png
+D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fundsicon.scale-100.png
+D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\navbar.scale-100.png
+D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\stafficon.scale-100.png
+D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\studenticon.scale-100.png
+D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\subjecticon.scale-100.png
