@@ -1,11 +1,5 @@
-Navbar.xaml
-Navbar.xaml.cs
 OpenSans-Regular.ttf
 OpenSans-Semibold.ttf
-Roboto-Bold.ttf
-Roboto-Regular.ttf
-Rubik-Bold.ttf
-Rubik-Regular.ttf
 appicon.ico
 appiconLargeTile.scale-100.png
 appiconLargeTile.scale-125.png
@@ -44,8 +38,8 @@ dotnet_bot.scale-150.png
 dotnet_bot.scale-200.png
 dotnet_bot.scale-400.png
 flyout_image.scale-100.png
-flyoutimage.scale-100.png
 fundsicon.scale-100.png
+navbar.scale-100.png
 photo.scale-100.jpg
 stafficon.scale-100.png
 studenticon.scale-100.png
