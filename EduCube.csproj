@@ -54,8 +54,8 @@
 	  <None Remove="Resources\Fonts\Rubik-Bold.ttf" />
 	  <None Remove="Resources\Fonts\Rubik-Regular.ttf" />
 	  <None Remove="Resources\Images\dashboardicon.png" />
-	  <None Remove="Resources\Images\flyoutimage.png" />
 	  <None Remove="Resources\Images\fundsicon.png" />
+	  <None Remove="Resources\Images\navbar.png" />
 	  <None Remove="Resources\Images\stafficon.png" />
 	  <None Remove="Resources\Images\studenticon.png" />
 	  <None Remove="Resources\Images\subjecticon.png" />

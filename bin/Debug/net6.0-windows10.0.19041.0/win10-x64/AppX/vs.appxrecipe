@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Projects\EduCube\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-08-04T09:33:41.186</Modified>
+      <Modified>2022-08-05T07:25:58.685</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Projects\EduCube\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-08-04T09:33:40.694</Modified>
+      <Modified>2022-08-05T07:25:58.240</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\EduCube.runtimeconfig.json">
       <PackagePath>EduCube.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\EduCube.dll">
       <PackagePath>EduCube.dll</PackagePath>
-      <Modified>2022-08-04T09:33:38.984</Modified>
+      <Modified>2022-08-05T07:25:57.143</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>EduCube.exe</PackagePath>
-      <Modified>2022-08-04T09:33:39.007</Modified>
+      <Modified>2022-08-05T07:25:57.150</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hello\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1096,7 +1096,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\EduCube.deps.json">
       <PackagePath>EduCube.deps.json</PackagePath>
-      <Modified>2022-08-04T09:33:40.958</Modified>
+      <Modified>2022-08-05T07:25:58.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.486\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1144,155 +1144,179 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2022-08-04T09:32:42.204</Modified>
+      <Modified>2022-08-05T07:25:56.736</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.205</Modified>
+      <Modified>2022-08-05T07:25:56.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.205</Modified>
+      <Modified>2022-08-05T07:25:56.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.205</Modified>
+      <Modified>2022-08-05T07:25:56.924</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.205</Modified>
+      <Modified>2022-08-05T07:25:56.939</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.206</Modified>
+      <Modified>2022-08-05T07:25:56.999</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.206</Modified>
+      <Modified>2022-08-05T07:25:56.750</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.207</Modified>
+      <Modified>2022-08-05T07:25:56.753</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.207</Modified>
+      <Modified>2022-08-05T07:25:56.756</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.207</Modified>
+      <Modified>2022-08-05T07:25:56.759</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.207</Modified>
+      <Modified>2022-08-05T07:25:56.763</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.207</Modified>
+      <Modified>2022-08-05T07:25:56.803</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.208</Modified>
+      <Modified>2022-08-05T07:25:56.807</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.208</Modified>
+      <Modified>2022-08-05T07:25:56.813</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.208</Modified>
+      <Modified>2022-08-05T07:25:56.820</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.208</Modified>
+      <Modified>2022-08-05T07:25:56.835</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.208</Modified>
+      <Modified>2022-08-05T07:25:56.782</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.209</Modified>
+      <Modified>2022-08-05T07:25:56.785</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.209</Modified>
+      <Modified>2022-08-05T07:25:56.788</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.209</Modified>
+      <Modified>2022-08-05T07:25:56.791</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.209</Modified>
+      <Modified>2022-08-05T07:25:56.799</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.209</Modified>
+      <Modified>2022-08-05T07:25:56.766</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.210</Modified>
+      <Modified>2022-08-05T07:25:56.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.210</Modified>
+      <Modified>2022-08-05T07:25:56.771</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.210</Modified>
+      <Modified>2022-08-05T07:25:56.774</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.210</Modified>
+      <Modified>2022-08-05T07:25:56.779</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.211</Modified>
+      <Modified>2022-08-05T07:25:56.840</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.211</Modified>
+      <Modified>2022-08-05T07:25:56.846</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.211</Modified>
+      <Modified>2022-08-05T07:25:56.854</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.212</Modified>
+      <Modified>2022-08-05T07:25:56.866</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.212</Modified>
+      <Modified>2022-08-05T07:25:56.895</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dashboardicon.scale-100.png">
+      <PackagePath>dashboardicon.scale-100.png</PackagePath>
+      <Modified>2022-08-04T09:32:38.178</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.212</Modified>
+      <Modified>2022-08-05T07:25:56.720</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.213</Modified>
+      <Modified>2022-08-05T07:25:56.729</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.213</Modified>
+      <Modified>2022-08-05T07:25:56.740</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.213</Modified>
+      <Modified>2022-08-05T07:25:56.762</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.214</Modified>
+      <Modified>2022-08-05T07:25:56.804</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\flyout_image.scale-100.png">
       <PackagePath>flyout_image.scale-100.png</PackagePath>
-      <Modified>2022-08-04T09:32:42.215</Modified>
+      <Modified>2022-08-04T09:32:38.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fundsicon.scale-100.png">
+      <PackagePath>fundsicon.scale-100.png</PackagePath>
+      <Modified>2022-08-04T09:32:38.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\navbar.scale-100.png">
+      <PackagePath>navbar.scale-100.png</PackagePath>
+      <Modified>2022-08-04T09:32:38.182</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\photo.scale-100.jpg">
       <PackagePath>photo.scale-100.jpg</PackagePath>
       <Modified>2022-08-04T09:32:42.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\stafficon.scale-100.png">
+      <PackagePath>stafficon.scale-100.png</PackagePath>
+      <Modified>2022-08-04T09:32:38.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\studenticon.scale-100.png">
+      <PackagePath>studenticon.scale-100.png</PackagePath>
+      <Modified>2022-08-04T09:32:38.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\subjecticon.scale-100.png">
+      <PackagePath>subjecticon.scale-100.png</PackagePath>
+      <Modified>2022-08-04T09:32:38.183</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
