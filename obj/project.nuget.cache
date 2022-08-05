@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2JlFaWJICBgrI6Qv0I+4uioizAIrDEpQFL7pBO2uupDQAwGzLnwDHzdhTpG616qrH5hsvm3yWgKt+0Ga5D+Flg==",
+  "dgSpecHash": "Mwme9pcFi0ZDPXOo6CdQ2GeunI7P59L+eiXjCen6TQtPLXGdVjuFL6K8AN2RGwwHqBbvfUV9LHew39qtkWu6iQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\piete\\OneDrive\\Documents\\GitHub\\EduCube\\EduCube.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\piete\\.nuget\\packages\\communitytoolkit.mvvm\\7.1.2\\communitytoolkit.mvvm.7.1.2.nupkg.sha512",
+    "C:\\Users\\piete\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
     "C:\\Users\\piete\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\piete\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\piete\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
