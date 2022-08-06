@@ -1065,3 +1065,5 @@ D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r
 D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\stafficon.scale-100.png
 D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\studenticon.scale-100.png
 D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\subjecticon.scale-100.png
+D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\background_login.scale-100.png
+D:\Projects\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png

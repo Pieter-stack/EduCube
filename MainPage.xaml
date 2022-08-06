@@ -2,13 +2,111 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:mynamespace="clr-namespace:EduCube"
-             x:Class="EduCube.MainPage">
+             x:Class="EduCube.MainPage"
+             BackgroundImageSource="background_login.png"
+             Shell.NavBarIsVisible="False"
+             Title="Login Page"
+             >
+    <!--Login Page-->
+    <Grid 
+        RowDefinitions="1*,8*,1*" 
+        HorizontalOptions="Fill" 
+        VerticalOptions="FillAndExpand">
 
-    <Grid HorizontalOptions="Start">
-        
-        <!--Login Page-->
-        <mynamespace:Navbar/>
+        <Frame 
+            CornerRadius="20" 
+            BackgroundColor="#5D3AF3"
+            Grid.Row="1"
+            WidthRequest="300"
+            VerticalOptions="CenterAndExpand"
+            HorizontalOptions="CenterAndExpand"
+            Margin="100,0,100,0"
+            >
+            
+            <VerticalStackLayout 
+                HorizontalOptions="Center" 
+                VerticalOptions="Center" 
+                BackgroundColor="Transparent" 
+                Spacing="25">
+                
+                <Image 
+                    Source="logo.png" 
+                    WidthRequest="100">
+                    <Image.Shadow>
+                        <Shadow 
+                            Brush="Black"
+                            Offset="1,2"
+                            Radius="5"
+                            Opacity="0.2"/>
+                    </Image.Shadow>
+                </Image>
+
+                <Frame 
+                    Padding="5" 
+                    BorderColor="Transparent" 
+                    CornerRadius="5" 
+                    BackgroundColor="#FFFFFF">
+                    <Grid 
+                        RowDefinitions="25,*" 
+                        RowSpacing="10">
+                        <Label 
+                            Text="Username" 
+                            FontSize="12" 
+                            FontAttributes="Bold" 
+                            TextColor="#FFFFFF" 
+                            />
+                        <Entry 
+                            VerticalOptions="Center" 
+                            Placeholder="Email" 
+                            FontSize="12" 
+                            Grid.Column="1" 
+                            TextColor="Black" />
+                    </Grid>
+                </Frame>
+                
+                <Frame 
+                    Padding="5" 
+                    BorderColor="Transparent" 
+                    CornerRadius="5" 
+                    BackgroundColor="#FFFFFF">
+                    <Grid 
+                        RowDefinitions="25,*" 
+                        RowSpacing="10">
+                        <Label 
+                            Text="Password" 
+                            FontSize="12" 
+                            FontAttributes="Bold" 
+                            TextColor="#FFFFFF" />
+                        <Entry 
+                            VerticalOptions="Center" 
+                            Placeholder="Password" 
+                            FontSize="12" 
+                            Grid.Column="1" 
+                            TextColor="Black" />
+                    </Grid>
+                </Frame>
+                
+                <Label 
+                    FontAttributes="None" 
+                    FontSize="12" 
+                    Text="Forgot Password?" 
+                    TextColor="Gray" 
+                    HorizontalTextAlignment="End" 
+                    />
+                <Button 
+                    CornerRadius="18" 
+                    HeightRequest="38" 
+                    Text="Sign In" 
+                    FontSize="16" 
+                    TextColor="#FFFFFF" 
+                    FontAttributes="None" 
+                    BackgroundColor="#FC6923" 
+                    Clicked="OnLoginClicked"
+                    />
+                
+            </VerticalStackLayout>
+        </Frame>
+
     </Grid>
-
 
 </ContentPage>

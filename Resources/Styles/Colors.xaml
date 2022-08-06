@@ -3,7 +3,17 @@
 <ResourceDictionary 
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
-
+    
+    <!-- Colour Palette -->
+    <Color x:Key="BlackSecondary">#120B29</Color>
+    <Color x:Key="OrangePrimary">#FC6923</Color>
+    <Color x:Key="PurplePrimary">#5938E8</Color>
+    <Color x:Key="YellowPrimary">#FFBC24</Color>
+    <Color x:Key="PinkPrimary">#EDC7F9</Color>
+    <Color x:Key="GraySecondary">#F2F1F8</Color>
+    <Color x:Key="WhiteBackground">#FFFFFF</Color>
+    
+    <!-- Default Colour -->
     <Color x:Key="Primary">#512BD4</Color>
     <Color x:Key="Secondary">#DFD8F7</Color>
     <Color x:Key="Tertiary">#2B0B98</Color>

@@ -5,24 +5,30 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:EduCube"
     Shell.FlyoutBehavior="Disabled">
-     
- <ShellContent
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" /><!--Login Page-->
-   <ShellContent
+
+    <!--Dashboard-->
+    <ShellContent
         ContentTemplate="{DataTemplate local:DashboardPage}"
-        Route="DashboardPage" /> <!--Main page / Dashboard-->
+        Route="DashboardPage" />
+    <!--Teachers-->
     <ShellContent
         ContentTemplate="{DataTemplate local:TeachersPage}"
-        Route="TeachersPage" /> <!--staff page / teachers page-->
+        Route="TeachersPage" />
+    <!--Students-->
     <ShellContent
         ContentTemplate="{DataTemplate local:StudentsPage}"
-        Route="StudentsPage" /> <!-- students page-->
+        Route="StudentsPage" />
+    <!--Subjects-->
     <ShellContent
         ContentTemplate="{DataTemplate local:SubjectsPage}"
-        Route="SubjectsPage" /> <!--subjects page-->
+        Route="SubjectsPage" />
+    <!--Funds-->
     <ShellContent
         ContentTemplate="{DataTemplate local:FundsPage}"
-        Route="FundsPage" /> <!--funds page-->
+        Route="FundsPage" />
+    <!--Login-->
+    <ShellContent
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
 </Shell>
 

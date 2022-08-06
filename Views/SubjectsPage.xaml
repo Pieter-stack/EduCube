@@ -5,7 +5,7 @@
              x:Class="EduCube.SubjectsPage"
              Title="SubjectsPage">
 
-    <Grid HorizontalOptions="Start">
+    <Grid>
         <mynamespace:Navbar/>
     </Grid>
 
