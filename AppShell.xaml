@@ -23,6 +23,7 @@
         Route="SubjectsPage" /> <!--subjects page-->
     <ShellContent
         ContentTemplate="{DataTemplate local:FundsPage}"
-        Route="FundsPage" /> <!--funds page-->
+        Route="FundsPage" />
+    <!--funds page-->
 </Shell>
 

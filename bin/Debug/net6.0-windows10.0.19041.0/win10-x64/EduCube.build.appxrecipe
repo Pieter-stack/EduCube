@@ -727,6 +727,18 @@
     <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\communitytoolkit.mvvm\8.0.0\lib\net6.0\CommunityToolkit.Mvvm.dll">
       <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\harfbuzzsharp\2.8.2.1-preview.91\lib\net6.0\HarfBuzzSharp.dll">
+      <PackagePath>HarfBuzzSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\livechartscore\2.0.0-beta.330\lib\net6.0\LiveChartsCore.dll">
+      <PackagePath>LiveChartsCore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\livechartscore.skiasharpview\2.0.0-beta.330\lib\net6.0\LiveChartsCore.SkiaSharpView.dll">
+      <PackagePath>LiveChartsCore.SkiaSharpView.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\livechartscore.skiasharpview.maui\2.0.0-beta.330\lib\net6.0\LiveChartsCore.SkiaSharpView.Maui.dll">
+      <PackagePath>LiveChartsCore.SkiaSharpView.Maui.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\microsoft.extensions.configuration\6.0.1\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
     </AppxPackagedFile>
@@ -793,6 +805,24 @@
     <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\microsoft.windowsappsdk\1.1.1\lib\net5.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\skiasharp\2.88.1-preview.91\lib\net6.0\SkiaSharp.dll">
+      <PackagePath>SkiaSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\skiasharp.harfbuzz\2.88.1-preview.91\lib\net6.0\SkiaSharp.HarfBuzz.dll">
+      <PackagePath>SkiaSharp.HarfBuzz.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\skiasharp.views.maui.controls\2.88.1-preview.91\lib\net6.0-windows10.0.18362.0\SkiaSharp.Views.Maui.Controls.dll">
+      <PackagePath>SkiaSharp.Views.Maui.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\skiasharp.views.maui.controls.compatibility\2.88.1-preview.91\lib\net6.0-windows10.0.18362.0\SkiaSharp.Views.Maui.Controls.Compatibility.dll">
+      <PackagePath>SkiaSharp.Views.Maui.Controls.Compatibility.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\skiasharp.views.maui.core\2.88.1-preview.91\lib\net6.0-windows10.0.18362.0\SkiaSharp.Views.Maui.Core.dll">
+      <PackagePath>SkiaSharp.Views.Maui.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\skiasharp.views.winui\2.88.1-preview.91\lib\net6.0-windows10.0.19041.0\SkiaSharp.Views.Windows.dll">
+      <PackagePath>SkiaSharp.Views.Windows.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\sqlite-net-standard\1.5.1\lib\netstandard1.1\SQLiteNetStandard.dll">
       <PackagePath>SQLiteNetStandard.dll</PackagePath>
     </AppxPackagedFile>
@@ -808,6 +838,9 @@
     <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\sqlitepclraw.provider.e_sqlite3.netstandard11\1.1.5\lib\netstandard1.1\SQLitePCLRaw.provider.e_sqlite3.dll">
       <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\harfbuzzsharp.nativeassets.win32\2.8.2.1-preview.91\runtimes\win-x64\native\libHarfBuzzSharp.dll">
+      <PackagePath>libHarfBuzzSharp.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\microsoft.graphics.win2d\1.0.3.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
     </AppxPackagedFile>
@@ -816,6 +849,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\runtime.win7-x64.runtime.native.system.io.compression\4.3.0\runtimes\win7-x64\native\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\skiasharp.nativeassets.win32\2.88.1-preview.91\runtimes\win-x64\native\libSkiaSharp.dll">
+      <PackagePath>libSkiaSharp.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\.nuget\packages\sqlitepclraw.lib.e_sqlite3.v110_xp\1.1.5\runtimes\win7-x64\native\e_sqlite3.dll">
       <PackagePath>e_sqlite3.dll</PackagePath>
@@ -949,8 +985,23 @@
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\backdropadmin.scale-100.png">
+      <PackagePath>backdropadmin.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\cashin.scale-100.png">
+      <PackagePath>cashin.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\cashout.scale-100.png">
+      <PackagePath>cashout.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\creditsiconsubjects.scale-100.png">
+      <PackagePath>creditsiconsubjects.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dashboardicon.scale-100.png">
       <PackagePath>dashboardicon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\democodeicon.scale-100.png">
+      <PackagePath>democodeicon.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
@@ -973,8 +1024,17 @@
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\flyout_image.scale-100.png">
       <PackagePath>flyout_image.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fundscards.scale-100.png">
+      <PackagePath>fundscards.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fundsicon.scale-100.png">
       <PackagePath>fundsicon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\hoursiconsubjects.scale-100.png">
+      <PackagePath>hoursiconsubjects.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
+      <PackagePath>logo.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\navbarbackground.scale-100.png">
       <PackagePath>navbarbackground.scale-100.png</PackagePath>
@@ -982,14 +1042,32 @@
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\photo.scale-100.jpg">
       <PackagePath>photo.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\priceiconsubjects.scale-100.png">
+      <PackagePath>priceiconsubjects.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\profilepic.scale-100.png">
+      <PackagePath>profilepic.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\searchicon.scale-100.png">
+      <PackagePath>searchicon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\stafficon.scale-100.png">
       <PackagePath>stafficon.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\studenticon.scale-100.png">
       <PackagePath>studenticon.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\subjectcardslarge.scale-100.png">
+      <PackagePath>subjectcardslarge.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\subjecticon.scale-100.png">
       <PackagePath>subjecticon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\timeiconsubjects.scale-100.png">
+      <PackagePath>timeiconsubjects.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\piete\OneDrive\Documents\GitHub\EduCube\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\venueiconsubjects.scale-100.png">
+      <PackagePath>venueiconsubjects.scale-100.png</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -10,6 +10,7 @@
       "EduCube/1.0": {
         "dependencies": {
           "CommunityToolkit.Mvvm": "8.0.0",
+          "LiveChartsCore.SkiaSharpView.Maui": "2.0.0-beta.330",
           "Microsoft.Maui.Dependencies": "6.0.419",
           "Microsoft.Maui.Extensions": "6.0.419",
           "Microsoft.Windows.SDK.BuildTools": "10.0.22000.194",
@@ -913,6 +914,62 @@
           }
         }
       },
+      "HarfBuzzSharp/2.8.2.1-preview.91": {
+        "dependencies": {
+          "HarfBuzzSharp.NativeAssets.Win32": "2.8.2.1-preview.91",
+          "HarfBuzzSharp.NativeAssets.macOS": "2.8.2.1-preview.91"
+        },
+        "runtime": {
+          "lib/net6.0/HarfBuzzSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "2.8.2.1"
+          }
+        }
+      },
+      "HarfBuzzSharp.NativeAssets.macOS/2.8.2.1-preview.91": {},
+      "HarfBuzzSharp.NativeAssets.Win32/2.8.2.1-preview.91": {
+        "native": {
+          "runtimes/win-x64/native/libHarfBuzzSharp.dll": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "LiveChartsCore/2.0.0-beta.330": {
+        "runtime": {
+          "lib/net6.0/LiveChartsCore.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "LiveChartsCore.SkiaSharpView/2.0.0-beta.330": {
+        "dependencies": {
+          "LiveChartsCore": "2.0.0-beta.330",
+          "SkiaSharp": "2.88.1-preview.91",
+          "SkiaSharp.HarfBuzz": "2.88.1-preview.91"
+        },
+        "runtime": {
+          "lib/net6.0/LiveChartsCore.SkiaSharpView.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "LiveChartsCore.SkiaSharpView.Maui/2.0.0-beta.330": {
+        "dependencies": {
+          "LiveChartsCore": "2.0.0-beta.330",
+          "LiveChartsCore.SkiaSharpView": "2.0.0-beta.330",
+          "Microsoft.Maui.Dependencies": "6.0.419",
+          "Microsoft.Maui.Extensions": "6.0.419",
+          "SkiaSharp.Views.Maui.Controls.Compatibility": "2.88.1-preview.91"
+        },
+        "runtime": {
+          "lib/net6.0/LiveChartsCore.SkiaSharpView.Maui.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "dependencies": {
           "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
@@ -1332,6 +1389,84 @@
         }
       },
       "runtime.win7.System.Private.Uri/4.3.0": {},
+      "SkiaSharp/2.88.1-preview.91": {
+        "dependencies": {
+          "SkiaSharp.NativeAssets.Win32": "2.88.1-preview.91",
+          "SkiaSharp.NativeAssets.macOS": "2.88.1-preview.91"
+        },
+        "runtime": {
+          "lib/net6.0/SkiaSharp.dll": {
+            "assemblyVersion": "2.88.0.0",
+            "fileVersion": "2.88.1.0"
+          }
+        }
+      },
+      "SkiaSharp.HarfBuzz/2.88.1-preview.91": {
+        "dependencies": {
+          "HarfBuzzSharp": "2.8.2.1-preview.91",
+          "SkiaSharp": "2.88.1-preview.91"
+        },
+        "runtime": {
+          "lib/net6.0/SkiaSharp.HarfBuzz.dll": {
+            "assemblyVersion": "2.88.0.0",
+            "fileVersion": "2.88.1.0"
+          }
+        }
+      },
+      "SkiaSharp.NativeAssets.macOS/2.88.1-preview.91": {},
+      "SkiaSharp.NativeAssets.Win32/2.88.1-preview.91": {
+        "native": {
+          "runtimes/win-x64/native/libSkiaSharp.dll": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SkiaSharp.Views.Maui.Controls/2.88.1-preview.91": {
+        "dependencies": {
+          "SkiaSharp.Views.Maui.Core": "2.88.1-preview.91"
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.18362.0/SkiaSharp.Views.Maui.Controls.dll": {
+            "assemblyVersion": "2.88.0.0",
+            "fileVersion": "2.88.1.0"
+          }
+        }
+      },
+      "SkiaSharp.Views.Maui.Controls.Compatibility/2.88.1-preview.91": {
+        "dependencies": {
+          "SkiaSharp.Views.Maui.Controls": "2.88.1-preview.91"
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.18362.0/SkiaSharp.Views.Maui.Controls.Compatibility.dll": {
+            "assemblyVersion": "2.88.0.0",
+            "fileVersion": "2.88.1.0"
+          }
+        }
+      },
+      "SkiaSharp.Views.Maui.Core/2.88.1-preview.91": {
+        "dependencies": {
+          "SkiaSharp": "2.88.1-preview.91",
+          "SkiaSharp.Views.WinUI": "2.88.1-preview.91"
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.18362.0/SkiaSharp.Views.Maui.Core.dll": {
+            "assemblyVersion": "2.88.0.0",
+            "fileVersion": "2.88.1.0"
+          }
+        }
+      },
+      "SkiaSharp.Views.WinUI/2.88.1-preview.91": {
+        "dependencies": {
+          "Microsoft.WindowsAppSDK": "1.1.1",
+          "SkiaSharp": "2.88.1-preview.91"
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.19041.0/SkiaSharp.Views.Windows.dll": {
+            "assemblyVersion": "2.88.0.0",
+            "fileVersion": "2.88.1.0"
+          }
+        }
+      },
       "sqlite-net-standard/1.5.1": {
         "dependencies": {
           "NETStandard.Library": "1.6.1",
@@ -2083,6 +2218,48 @@
       "path": "communitytoolkit.mvvm/8.0.0",
       "hashPath": "communitytoolkit.mvvm.8.0.0.nupkg.sha512"
     },
+    "HarfBuzzSharp/2.8.2.1-preview.91": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m5B67NMVrvA+3zoDuuqvuMDCtHb/FRBfR6XMB3DrWq1NbeR0ILJmJOc8wKEeMeTjkJyPInVq3GttT5aU9dHBXA==",
+      "path": "harfbuzzsharp/2.8.2.1-preview.91",
+      "hashPath": "harfbuzzsharp.2.8.2.1-preview.91.nupkg.sha512"
+    },
+    "HarfBuzzSharp.NativeAssets.macOS/2.8.2.1-preview.91": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OCktqWrPp4aokAc3G5Yzq7FeXXA/srx4bWdrot5Nf6+iOjKTWRnFitdDcgeSEAu7iD4Bz2wi4v2WY0o1sWhrBw==",
+      "path": "harfbuzzsharp.nativeassets.macos/2.8.2.1-preview.91",
+      "hashPath": "harfbuzzsharp.nativeassets.macos.2.8.2.1-preview.91.nupkg.sha512"
+    },
+    "HarfBuzzSharp.NativeAssets.Win32/2.8.2.1-preview.91": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P84PDBoJTPAo0qYcvdSkEXUn5/0eVDIDoQGiS7vTXcR0G/H5b02t/7ubVgmHcO1VYzad2hmOMIHRvPg5FdyC8w==",
+      "path": "harfbuzzsharp.nativeassets.win32/2.8.2.1-preview.91",
+      "hashPath": "harfbuzzsharp.nativeassets.win32.2.8.2.1-preview.91.nupkg.sha512"
+    },
+    "LiveChartsCore/2.0.0-beta.330": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-viNayVI8HpFEzfdmYQwIq8uGMlRVn3l4VNck9oPKKNbdHdkRq5U8bgE7iw3uqPriDQeBSVUH93YbDJRgyhmkUA==",
+      "path": "livechartscore/2.0.0-beta.330",
+      "hashPath": "livechartscore.2.0.0-beta.330.nupkg.sha512"
+    },
+    "LiveChartsCore.SkiaSharpView/2.0.0-beta.330": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JuQzo3m7drw8kq2UmK1Ja/h9OqrIrJ1OkaymYsu6D+zSaNjeNsLb6xnPCXB2SWwNOX+TkEi0KgWZYBAmBjef4g==",
+      "path": "livechartscore.skiasharpview/2.0.0-beta.330",
+      "hashPath": "livechartscore.skiasharpview.2.0.0-beta.330.nupkg.sha512"
+    },
+    "LiveChartsCore.SkiaSharpView.Maui/2.0.0-beta.330": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gyyCCg7dedKZckLTcMGAIkmqJm8cfgd/rynJsTfX+1jVJcacmCRl6SmWfylGQQAcv/92a0YtQzQz1yjOclScLg==",
+      "path": "livechartscore.skiasharpview.maui/2.0.0-beta.330",
+      "hashPath": "livechartscore.skiasharpview.maui.2.0.0-beta.330.nupkg.sha512"
+    },
     "Microsoft.Extensions.Configuration/6.0.1": {
       "type": "package",
       "serviceable": true,
@@ -2509,6 +2686,62 @@
       "sha512": "sha512-Q+IBgaPYicSQs2tBlmXqbS25c/JLIthWrgrpMwxKSOobW/OqIMVFruUGfuaz4QABVzV8iKdCAbN7APY7Tclbnw==",
       "path": "runtime.win7.system.private.uri/4.3.0",
       "hashPath": "runtime.win7.system.private.uri.4.3.0.nupkg.sha512"
+    },
+    "SkiaSharp/2.88.1-preview.91": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jrmq8hxzWLrIkMuSLxvlaagDzh4yMOeyR0UfaiQ8uq0qXzrNL/NXeFNkpM/OoEb3+mgNHnRVgW7ozCUPnO+uFw==",
+      "path": "skiasharp/2.88.1-preview.91",
+      "hashPath": "skiasharp.2.88.1-preview.91.nupkg.sha512"
+    },
+    "SkiaSharp.HarfBuzz/2.88.1-preview.91": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KgtSx5ggDxuZEoBhtd+t2/+JrPM5ngDJd/abhmaKs+6a2ewMwk4SOIoX03t63kslbCW3fB2tY+vMpwlBfyUthw==",
+      "path": "skiasharp.harfbuzz/2.88.1-preview.91",
+      "hashPath": "skiasharp.harfbuzz.2.88.1-preview.91.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.macOS/2.88.1-preview.91": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8flfBRk//P0crtAHvHG6tACtzvFj67fIITPgOqWcxbKxMgoxkafi+DwPVwzUK9NVWBdEo09J1H2PIbYX4berVQ==",
+      "path": "skiasharp.nativeassets.macos/2.88.1-preview.91",
+      "hashPath": "skiasharp.nativeassets.macos.2.88.1-preview.91.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.Win32/2.88.1-preview.91": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ElIeikrt/zVVawIN/KZWXagWT+u/t7RHVH3XTBDeGY7Dmllmv2s8JfSlrX+oP9kGdo0HJze/N3jou7iLS0ymIw==",
+      "path": "skiasharp.nativeassets.win32/2.88.1-preview.91",
+      "hashPath": "skiasharp.nativeassets.win32.2.88.1-preview.91.nupkg.sha512"
+    },
+    "SkiaSharp.Views.Maui.Controls/2.88.1-preview.91": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JyKhDpjj6HqhvPl1BXAeRlYz8WHUWEWgBFEkKxc5hYuVX/jPD74N1HkX28YtA5bBFAt3R3sfnfQZV2ONXeVn1w==",
+      "path": "skiasharp.views.maui.controls/2.88.1-preview.91",
+      "hashPath": "skiasharp.views.maui.controls.2.88.1-preview.91.nupkg.sha512"
+    },
+    "SkiaSharp.Views.Maui.Controls.Compatibility/2.88.1-preview.91": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tUHgvO1ORjU7C+R1GX3WtpulJb9J70MGJdC4LpqAXuDfpTFy+rnoHbm3BjyybYYaNmtiMyt5d2ccn/fzRBIHrQ==",
+      "path": "skiasharp.views.maui.controls.compatibility/2.88.1-preview.91",
+      "hashPath": "skiasharp.views.maui.controls.compatibility.2.88.1-preview.91.nupkg.sha512"
+    },
+    "SkiaSharp.Views.Maui.Core/2.88.1-preview.91": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TNqaGlohddFU515iBD81Iywd3ob9Cfqu/vnU0mUtQpKy9cIrg1br0nKH3C/mk16zONUOmzD9AoM8mtepWYXYCQ==",
+      "path": "skiasharp.views.maui.core/2.88.1-preview.91",
+      "hashPath": "skiasharp.views.maui.core.2.88.1-preview.91.nupkg.sha512"
+    },
+    "SkiaSharp.Views.WinUI/2.88.1-preview.91": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mb1/fnk9Cfd02YQxbbbLvm1DONS17l0qb7ISJkjuPVs22R+/170UotzkQ/Z8vPD26j+vJx2G9S8pniKH1EkZ8w==",
+      "path": "skiasharp.views.winui/2.88.1-preview.91",
+      "hashPath": "skiasharp.views.winui.2.88.1-preview.91.nupkg.sha512"
     },
     "sqlite-net-standard/1.5.1": {
       "type": "package",
