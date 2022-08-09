@@ -1,4 +1,7 @@
-﻿namespace EduCube;
+﻿using EduCube.Handlers;
+using Microsoft.Maui.Platform;
+
+namespace EduCube;
 
 public partial class App : Application
 {
@@ -6,9 +9,27 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-		MainPage = new AppShell();
+
+        Microsoft.Maui.Handlers.EntryHandler.Mapper.AppendToMapping(nameof(BorderlessEnrty), (handler, view) =>
+        {
+#if WINDOWS
+              handler.PlatformView.BorderThickness = new Microsoft.UI.Xaml.Thickness(0);
+
+#endif
+        });
+
+
+
+
+
+
+
+
+
+        MainPage = new AppShell();
        
     }
 
 
 }
+//https://docs.microsoft.com/en-us/answers/questions/893844/how-to-remove-underline-when-entry-receives-focus.html

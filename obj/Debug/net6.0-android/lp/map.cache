@@ -160,3 +160,12 @@ SQLitePCLRaw.batteries_v2.dll
 SQLitePCLRaw.core.dll
 SQLitePCLRaw.lib.e_sqlite3.dll
 SQLitePCLRaw.provider.e_sqlite3.dll
+HarfBuzzSharp.dll
+LiveChartsCore.dll
+LiveChartsCore.SkiaSharpView.dll
+LiveChartsCore.SkiaSharpView.Maui.dll
+SkiaSharp.dll
+SkiaSharp.Views.Android.dll
+SkiaSharp.Views.Maui.Controls.Compatibility.dll
+SkiaSharp.Views.Maui.Controls.dll
+SkiaSharp.Views.Maui.Core.dll
