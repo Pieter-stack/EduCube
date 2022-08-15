@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\piete\\OneDrive\\Documents\\GitHub\\EduCube\\EduCube.csproj": {}
+    "D:\\Projects\\EduCube\\EduCube.csproj": {}
   },
   "projects": {
-    "C:\\Users\\piete\\OneDrive\\Documents\\GitHub\\EduCube\\EduCube.csproj": {
+    "D:\\Projects\\EduCube\\EduCube.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\piete\\OneDrive\\Documents\\GitHub\\EduCube\\EduCube.csproj",
+        "projectUniqueName": "D:\\Projects\\EduCube\\EduCube.csproj",
         "projectName": "EduCube",
-        "projectPath": "C:\\Users\\piete\\OneDrive\\Documents\\GitHub\\EduCube\\EduCube.csproj",
-        "packagesPath": "C:\\Users\\piete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\piete\\OneDrive\\Documents\\GitHub\\EduCube\\obj\\",
+        "projectPath": "D:\\Projects\\EduCube\\EduCube.csproj",
+        "packagesPath": "C:\\Users\\hello\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\EduCube\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\piete\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hello\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -71,12 +71,12 @@
             },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
-              "version": "[6.0.419, )",
+              "version": "[6.0.486, )",
               "autoReferenced": true
             },
             "Microsoft.Maui.Extensions": {
               "target": "Package",
-              "version": "[6.0.419, )",
+              "version": "[6.0.486, )",
               "autoReferenced": true
             },
             "sqlite-net-standard": {
@@ -141,12 +141,12 @@
             },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
-              "version": "[6.0.419, )",
+              "version": "[6.0.486, )",
               "autoReferenced": true
             },
             "Microsoft.Maui.Extensions": {
               "target": "Package",
-              "version": "[6.0.419, )",
+              "version": "[6.0.486, )",
               "autoReferenced": true
             },
             "System.Runtime.InteropServices.NFloat.Internal": {
@@ -202,12 +202,12 @@
             },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
-              "version": "[6.0.419, )",
+              "version": "[6.0.486, )",
               "autoReferenced": true
             },
             "Microsoft.Maui.Extensions": {
               "target": "Package",
-              "version": "[6.0.419, )",
+              "version": "[6.0.486, )",
               "autoReferenced": true
             },
             "System.Runtime.InteropServices.NFloat.Internal": {
@@ -264,12 +264,12 @@
             },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
-              "version": "[6.0.419, )",
+              "version": "[6.0.486, )",
               "autoReferenced": true
             },
             "Microsoft.Maui.Extensions": {
               "target": "Package",
-              "version": "[6.0.419, )",
+              "version": "[6.0.486, )",
               "autoReferenced": true
             },
             "Microsoft.Windows.SDK.BuildTools": {
