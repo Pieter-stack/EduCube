@@ -14,7 +14,7 @@ namespace EduCube
 {
 	
 	
-	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "12.3.99.47")]
+	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "12.3.99.48")]
 	public partial class Resource
 	{
 		
