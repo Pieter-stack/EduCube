@@ -7,81 +7,81 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EduCube
-build_property.ProjectDir = D:\Projects\EduCube\
+build_property.ProjectDir = D:\Dev\EduCube\
 
-[D:/Projects/EduCube/App.xaml]
+[D:/Dev/EduCube/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/Projects/EduCube/AppShell.xaml]
+[D:/Dev/EduCube/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/Projects/EduCube/Components/Invoices.xaml]
+[D:/Dev/EduCube/Components/Invoices.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.Components.Invoices.xaml
 build_metadata.AdditionalFiles.TargetPath = Components\Invoices.xaml
 build_metadata.AdditionalFiles.RelativePath = Components\Invoices.xaml
 
-[D:/Projects/EduCube/Components/Navbar.xaml]
+[D:/Dev/EduCube/Components/Navbar.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.Components.Navbar.xaml
 build_metadata.AdditionalFiles.TargetPath = Components\Navbar.xaml
 build_metadata.AdditionalFiles.RelativePath = Components\Navbar.xaml
 
-[D:/Projects/EduCube/Components/SubjectCards.xaml]
+[D:/Dev/EduCube/Components/SubjectCards.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.Components.SubjectCards.xaml
 build_metadata.AdditionalFiles.TargetPath = Components\SubjectCards.xaml
 build_metadata.AdditionalFiles.RelativePath = Components\SubjectCards.xaml
 
-[D:/Projects/EduCube/MainPage.xaml]
+[D:/Dev/EduCube/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[D:/Projects/EduCube/Resources/Styles/Colors.xaml]
+[D:/Dev/EduCube/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/Projects/EduCube/Resources/Styles/Styles.xaml]
+[D:/Dev/EduCube/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[D:/Projects/EduCube/Views/DashboardPage.xaml]
+[D:/Dev/EduCube/Views/DashboardPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.Views.DashboardPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\DashboardPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\DashboardPage.xaml
 
-[D:/Projects/EduCube/Views/FundsPage.xaml]
+[D:/Dev/EduCube/Views/FundsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.Views.FundsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\FundsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\FundsPage.xaml
 
-[D:/Projects/EduCube/Views/StudentsPage.xaml]
+[D:/Dev/EduCube/Views/StudentsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.Views.StudentsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\StudentsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\StudentsPage.xaml
 
-[D:/Projects/EduCube/Views/SubjectsPage.xaml]
+[D:/Dev/EduCube/Views/SubjectsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.Views.SubjectsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\SubjectsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\SubjectsPage.xaml
 
-[D:/Projects/EduCube/Views/TeachersPage.xaml]
+[D:/Dev/EduCube/Views/TeachersPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EduCube.Views.TeachersPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\TeachersPage.xaml

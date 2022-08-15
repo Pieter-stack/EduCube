@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m1kor6cnkiay2s3ElQtxJXq3qoSoZOGsAEX1kI1g337o5OwWXEOCMxlDFqUBjFB2SiwRIyuzae9K3d9rbswdVA==",
+  "dgSpecHash": "GnslW0UvL2Fyz5UvfxPaqPeC8yMeWWsBIM28ITgssBzDUAb9imPTXOvOtZIsh6NS5izCg8WsbJg2cVu+b2iH9A==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\EduCube\\EduCube.csproj",
+  "projectFilePath": "D:\\Dev\\EduCube\\EduCube.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hello\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
     "C:\\Users\\hello\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
@@ -248,13 +248,12 @@
     "C:\\Users\\hello\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.6.20.1\\xamarin.kotlin.stdlib.jdk8.1.6.20.1.nupkg.sha512",
     "C:\\Users\\hello\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.6.0.1\\xamarin.kotlinx.coroutines.android.1.6.0.1.nupkg.sha512",
     "C:\\Users\\hello\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.6.0.1\\xamarin.kotlinx.coroutines.core.jvm.1.6.0.1.nupkg.sha512",
-    "C:\\Users\\hello\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.6\\microsoft.netcore.app.host.linux-x64.6.0.6.nupkg.sha512",
-    "C:\\Users\\hello\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\6.0.6\\microsoft.netcore.app.host.linux-arm64.6.0.6.nupkg.sha512",
-    "C:\\Users\\hello\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\6.0.6\\microsoft.netcore.app.host.linux-arm.6.0.6.nupkg.sha512",
-    "C:\\Users\\hello\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.6\\microsoft.netcore.app.runtime.win-x64.6.0.6.nupkg.sha512",
-    "C:\\Users\\hello\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.6\\microsoft.aspnetcore.app.runtime.win-x64.6.0.6.nupkg.sha512",
-    "C:\\Users\\hello\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.6\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.6.nupkg.sha512",
-    "C:\\Users\\hello\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.26\\microsoft.windows.sdk.net.ref.10.0.19041.26.nupkg.sha512"
+    "C:\\Users\\hello\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\6.0.8\\microsoft.netcore.app.host.linux-arm.6.0.8.nupkg.sha512",
+    "C:\\Users\\hello\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.8\\microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\hello\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\6.0.8\\microsoft.netcore.app.host.linux-arm64.6.0.8.nupkg.sha512",
+    "C:\\Users\\hello\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.26\\microsoft.windows.sdk.net.ref.10.0.19041.26.nupkg.sha512",
+    "C:\\Users\\hello\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.8\\microsoft.aspnetcore.app.runtime.win-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\hello\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.8.nupkg.sha512"
   ],
   "logs": [
     {
