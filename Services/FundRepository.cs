@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EduCube.Services
 {
-    internal class FundRepository
+    internal class FundRepository : IFundService
     {
     }
 }

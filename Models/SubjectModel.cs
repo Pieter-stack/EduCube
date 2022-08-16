@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EduCube.Models
 {
-    [Table("student")]
+    [Table("subject")]
     public class SubjectModel
     {
 
@@ -19,6 +19,9 @@ namespace EduCube.Models
 
         [MaxLength(100)]
         public string SubjectCode { get; set; }
+
+        [MaxLength(100)]
+        public string SubjectLecturer { get; set; }
 
         [MaxLength(255)]
         public string SubjectDescription { get; set; }
@@ -39,7 +42,7 @@ namespace EduCube.Models
         public string SubjectImage { get; set; }
 
         [MaxLength(100)]
-        public string SubjectType { get; set; }
+        public string SubjectHours { get; set; }
 
         [MaxLength(100)]
         public string SubjectVenue { get; set; }

@@ -1,4 +1,6 @@
-﻿namespace EduCube;
+﻿using EduCube.Views.AddUpdateViews;
+
+namespace EduCube;
 
 public partial class AppShell : Shell
 {
@@ -14,5 +16,7 @@ public partial class AppShell : Shell
         Routing.RegisterRoute("TeachersPage", typeof(TeachersPage));
         Routing.RegisterRoute("FundsPage", typeof(FundsPage));
         Routing.RegisterRoute("MainPage", typeof(MainPage));
+        //initialize add and update pages
+        Routing.RegisterRoute(nameof(AddUpdateSubjectPage), typeof(AddUpdateSubjectPage));
     }
 }
