@@ -4,8 +4,7 @@
              xmlns:mynamespace="clr-namespace:EduCube"
              x:Class="EduCube.TeachersPage"
              xmlns:handless="clr-namespace:EduCube.Handlers"
-             BackgroundColor="#DFD8F7"
-             Title="TeachersPage">
+             BackgroundColor="#FFFFFF">
 
     <Grid>
         <!--New Grid Definitions-->

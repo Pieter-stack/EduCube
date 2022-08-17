@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EduCube.Views.AddUpdateViews.AddUpdateSubjectPage"
+             Title="Add/Update Subject Test Title">
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label">
+                <Setter Property="FontSize" Value="12" />
+                <Setter Property="TextColor" Value="Black" />
+            </Style>
+            <Style TargetType="Entry">
+                <Setter Property="FontSize" Value="12" />
+                <Setter Property="TextColor" Value="Black"/>
+                <Setter Property="Margin" Value="0, 10, 0 , 0"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    
+    
+    <StackLayout Margin="10"
+                   BackgroundColor="#FFFFFF"
+                   Padding="20"
+                   Spacing="10">
+        <VerticalStackLayout>
+            <Label Text="Subject Title"  />
+            <Entry Text="{Binding SubjectTitle}"
+                   Placeholder="Subject Title"/>
+            <BoxView HeightRequest="0.8"
+                     Color="White" />
+        </VerticalStackLayout>
+
+        <VerticalStackLayout>
+            <Label Text="Subject Code"  />
+            <Entry Text="{Binding SubjectCode}"
+                   Placeholder="Subject Code"/>
+            <BoxView HeightRequest="0.8"
+                     Color="White" />
+        </VerticalStackLayout>
+
+        <VerticalStackLayout>
+            <Label Text="Subject Lecturer"  />
+            <Entry Text="{Binding SubjectLecturer}"
+                   Placeholder="Subject Lecturer"/>
+            <BoxView HeightRequest="0.8"
+                     Color="White" />
+        </VerticalStackLayout>
+
+        <VerticalStackLayout>
+            <Label Text="Subject Description"  />
+            <Entry Text="{Binding SubjectDescription}"
+                   Placeholder="Subject Description"/>
+            <BoxView HeightRequest="0.8"
+                     Color="White" />
+        </VerticalStackLayout>
+
+        <VerticalStackLayout>
+            <Label Text="Subject Credits"  />
+            <Entry Text="{Binding SubjectCredits}"
+                   Placeholder="Subject Credits"/>
+            <BoxView HeightRequest="0.8"
+                     Color="White" />
+        </VerticalStackLayout>
+
+        <VerticalStackLayout>
+            <Label Text="Subject Price"  />
+            <Entry Text="{Binding SubjectPrice}"
+                   Placeholder="Subject Price"/>
+            <BoxView HeightRequest="0.8"
+                     Color="White" />
+        </VerticalStackLayout>
+
+        <VerticalStackLayout>
+            <Label Text="Subject Date"  />
+            <Entry Text="{Binding SubjectDate}"
+                   Placeholder="Subject Date"/>
+            <BoxView HeightRequest="0.8"
+                     Color="White" />
+        </VerticalStackLayout>
+
+        <VerticalStackLayout>
+            <Label Text="Subject Time"  />
+            <Entry Text="{Binding SubjectTime}"
+                   Placeholder="Subject Time"/>
+            <BoxView HeightRequest="0.8"
+                     Color="White" />
+        </VerticalStackLayout>
+
+        <VerticalStackLayout>
+            <Label Text="Subject Image"  />
+            <Entry Text="{Binding SubjectImage}"
+                   Placeholder="Subject Image"/>
+            <BoxView HeightRequest="0.8"
+                     Color="White" />
+        </VerticalStackLayout>
+
+        <VerticalStackLayout>
+            <Label Text="Subject Hours"  />
+            <Entry Text="{Binding SubjectHours}"
+                   Placeholder="Subject Hourse"/>
+            <BoxView HeightRequest="0.8"
+                     Color="White" />
+        </VerticalStackLayout>
+
+        <VerticalStackLayout>
+            <Label Text="Subject Venue"  />
+            <Entry Text="{Binding SubjectVenue}"
+                   Placeholder="Subject Venue"/>
+            <BoxView HeightRequest="0.8"
+                     Color="White" />
+        </VerticalStackLayout>
+
+
+        <Button Text="Save"
+                Command="{Binding AddUpdateSubjectCommand}"
+                HorizontalOptions="EndAndExpand"
+                Padding="20"
+                BackgroundColor="#5B61D9"
+                TextColor="White"
+                FontAttributes="Bold"
+                Margin="0,20,0,0"/>
+    </StackLayout>
+</ContentPage>
